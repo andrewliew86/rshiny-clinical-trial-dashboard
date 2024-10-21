@@ -1,8 +1,8 @@
-# RShiny clinical trials dashboard
+# R Shiny clinical trials dashboard
 
 This project is an **R Shiny** dashboard that provides an overview of the landscape of clinical trials related to infections. The dashboard leverages real-world data from the [AACT database](https://aact.ctti-clinicaltrials.org/), which is hosted by the Clinical Trials Transformation Initiative (CTTI). It allows users to explore key information such as sponsors, trial phases, geographic distribution reported in these trials.
 
-**Figure 1: Clinical trials dashboard built with RShiny**
+**Figure 1: Clinical trials dashboard built with R Shiny**
 
 <img src="https://github.com/andrewliew86/rshiny-clinical-trial-dashboard/blob/main/images/dashboard.PNG" width=100% height=100%>
 
